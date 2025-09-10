@@ -26,6 +26,30 @@ header > nav {
     align-items: center;
     gap: 40%;
 }
+#tiltedContainer {
+    position: absolute;
+
+    width: 40%;
+    height: 100%;
+
+    left: -36%;
+}
+
+#tiltedContainer > div {
+    position: relative;
+    z-index: 2;
+/* 
+    top: 0%;
+    left: -85%; */
+
+    width: 100%;
+    height: 150%;
+    top: -20%;
+    background-color: lightblue;
+    /* margin: 50px; For spacing */
+    transform: rotate(10deg); /* Tilts the box by # degrees clockwise */
+}
+
 
 #wrapper {
     width: 100%;
