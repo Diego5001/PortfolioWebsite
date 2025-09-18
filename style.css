@@ -73,9 +73,65 @@ header > nav {
     display: flex;
 }
 
+#introContacts {
+     position: relative;
+    width: 70%;
+    height: 60%;
+    left: 20%;
+
+    display: flex;
+}
+#introContacts > #IntroContent {
+    display: flex; 
+    flex-direction: column;
+
+}
+
+#introContacts > #IntroContent > div {
+    background-color: lightblue;
+        height: 50%;
+
+}
+
 #intro > div {
     width: 50%;
     height: 100%;
+}
+
+#introAboutMe {
+    width: 90%;
+    height: 50%;
+}
+
+#introAboutMe > #introContent {
+    display: flex;
+    /* gap: 1%; */
+}
+
+#introContent {
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    gap: 5%;
+}
+
+
+
+#introServices {
+    width: 90%;
+    height: 50%;
+}
+
+.servicesDiv {
+    width: 20%;
+    height: 100%;
+
+    background-color: rgb(255, 255, 255);
 }
 
 #wrapper {
@@ -99,7 +155,7 @@ header > nav {
 
 
     display:flex;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: start;
     flex-wrap:wrap;
     align-content: flex-start;
@@ -107,13 +163,25 @@ header > nav {
     gap: 15%;
 }
 
+.aboutMe {
+    width: 22%;
+    height: 45%;
+
+    background-color: rgb(255, 255, 255);
+}
+
 .headerTextLeftSide {
-    position: relative;
+    position: absolute;
     left: 2%;
-    bottom: 0%;
+    top: 0%;
 }
 
 .scaleToDevice {
  width: 100%;
  height: 100%;
+}
+
+.scaleToDevice2 {
+ width: 20%;
+ height: 20%;
 }
