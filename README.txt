@@ -1,19 +1,3 @@
-Project Title: The name of your website/project.
-
-Description: A short summary of the website’s purpose and main features.
-
-Design Choices: Explain the decisions you made about layout, navigation, styling, or functionality.
-
-MVP Decisions: Describe why you chose these features for your minimum viable product.
-
-Contact Information: Explain how visitors can reach you (email link or other method).
-
-Challenges & Lessons Learned: Note any difficulties you encountered and how you solved them.
-
-Future Improvements (Optional): Ideas for additional features or enhancements you could add later.
-
-Credits / References (Optional): Any resources, tutorials, or assets you used.
-
 My Portfolio
 
 - DESCRIPTION
@@ -31,4 +15,19 @@ My Portfolio
     - This the 'MVP' elements I choose for the website for now since they are the required stuff to make it look like my Portfolio
 
 - CONTACT
-    - The way you can contact me is when you reach the home page which you start there in the webstie, you either press contacts
+    - The way you can contact me is when you reach the home page which you start there in the webstie, you either press 'contact' button
+     below the little more about me or press the other 'contact' button in the header. And when you reach the contacts page you either
+     gmail by the gmail I left there or use the gmail system I made (Which in the MVP is not working right now)
+
+- STRUGGLES?
+
+    - I kind of struggled since I don't really use html but likely most of the people that have done their portfolio had very know knowledge
+    but I did good.
+
+- AFTER MVP
+
+    - Besides the enhancements I'll add, I will add like hidden fun facts about personal likes. Like you press a very small circle and
+    my likes will appear. 
+
+- REFERENCES
+    -w3schools (Nothing to much thats why probably my website MVP didn't do the best)
